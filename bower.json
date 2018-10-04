@@ -10,7 +10,6 @@
     "ecosystem:cordova",
     "ecosystem:phonegap",
     "cordova-ios",
-    "cordova-android",
     "cordova-windows",
     "cordova-browser"
   ],
